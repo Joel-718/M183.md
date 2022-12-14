@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/69576108/207670007-118b0287-32b9-4ec8-
 
 Code:
 
-![Unbenannt](https://user-images.githubusercontent.com/69576108/207671226-f00a79bc-1789-49dc-8a7e-18a694434b09.PNG
+![Unbenannt](https://user-images.githubusercontent.com/69576108/207671226-f00a79bc-1789-49dc-8a7e-18a694434b09.PNG)
 
 Wie man bei der Codestelle sehen kann, ist "escape" auf "false" gesetzt. Dies bedeute, dass escaping nicht betrieben wird. Für uns bedeutet es dann, dass die "Tags" als "Tags" anerkannt werden und nicht bloss als ein normaler Buchstabe. JSF sowie die meisten Technologien betreiben automatisch escaping, wenn wir es nicht absichtlich abstellen. Dennoch muss man sicher sein, dass man davor geschützt ist. Mit einer solchen Sicherheitslücke kann viel Unfug betrieben werden.
 
