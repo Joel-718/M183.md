@@ -11,20 +11,25 @@ Ich habe gelernt, wie man eine Website vor XSS Angriffe schützt und wie man sic
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-
-
-
+Das unten zu sehende Video, präsentiert uns, was passieren kann, wenn man die Webseite nicht vor XSS geschützt ist:
 
 https://user-images.githubusercontent.com/69576108/207670007-118b0287-32b9-4ec8-af61-8d79384c6c7c.mp4
 
+Code:
 
+![Unbenannt](https://user-images.githubusercontent.com/69576108/207671226-f00a79bc-1789-49dc-8a7e-18a694434b09.PNG
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
+Wie man bei der Codestelle sehen kann, ist "escape" auf "false" gesetzt. Dies bedeute, dass escaping nicht betrieben wird. Für uns bedeutet es dann, dass die "Tags" als "Tags" anerkannt werden und nicht bloss als ein normaler Buchstabe. JSF sowie die meisten Technologien betreiben automatisch escaping, wenn wir es nicht absichtlich abstellen. Dennoch muss man sicher sein, dass man davor geschützt ist. Mit einer solchen Sicherheitslücke kann viel Unfug betrieben werden.
 
+Das unten zu sehende Video präsentiert uns, wie unsere Webseite im besten Fall auf die Eingabe reagieren soll:
+
+https://user-images.githubusercontent.com/69576108/207672542-a8cd1fb6-738e-44f0-8eaa-8218a8029ca2.mp4
+
+Code:
+
+![Unbenannt](https://user-images.githubusercontent.com/69576108/207672811-c1a0478f-9cb7-42d3-bcf0-55e3064de0b5.PNG)
+
+Nun ist "escape" auf "true" gesetzt. Ab sofort werden die "Tags" als ein normaler Buchstabe anerkannt. Ab sofort ist unsere Webseite zumindest vor dieser Sicherheitslücke geschützt.
 
 ## Verifikation
 
