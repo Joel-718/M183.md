@@ -17,6 +17,10 @@ Ich habe gelernt, wie man eine Website vor XSS Angriffe schützt und wie man sic
 
 
 
+https://user-images.githubusercontent.com/69576108/207670007-118b0287-32b9-4ec8-af61-8d79384c6c7c.mp4
+
+
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
