@@ -37,8 +37,8 @@ XSS-Escaping ist eine Technik, die verwendet wird, um zu verhindern, dass schäd
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Ich finde, dass ich mich im Unterricht gut konzentrieren konnte. Sofern ich den Auftrag verstanden habe, bin ich motiviert und konzentriert an die Aufgabe gegangen und versucht, die so gut es geht, zu lösen. Dies bedeutet, dass ich im gross und ganzen ziemlich zufrieden mit meiner Leistung bin, obwohl ich den Einstieg etwas verpasst haben.
 
-👎 und etwas, was nicht gut lief.
+👎 Für mich wahr es nicht immer leicht, die Konzentration und Motivation im Online-Unterricht zu finden. Ich verlor oft den Fokus, da ich mich in eine wohlfühlende Umgebung arbeitete. Dies bedeutet im Umkehrschluss, dass ich mit den Aufträgen ab und zu hinterher war.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich möchte mich im Online-Unterricht besser konzentrieren und nicht den Fokus verlieren. Um dies zu erreichen werde ich in Zukunft mein Handy auf nicht Stören umstellen und jegliche Sachen, die mich ablenken abstellen.
